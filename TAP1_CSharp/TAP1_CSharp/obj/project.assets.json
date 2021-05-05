@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp.csproj",
       "projectName": "TAP1_CSharp",
-      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp.csproj",
+      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp.csproj",
       "packagesPath": "C:\\Users\\ADorobantu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP1_CSharp\\TAP1_CSharp\\TAP1_CSharp\\obj\\",
+      "outputPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP1_CSharp\\TAP1_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADorobantu\\AppData\\Roaming\\NuGet\\NuGet.Config",
