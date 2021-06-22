@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\bin\Debug\netcoreapp3.1\template.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\bin\Debug\netcoreapp3.1\template.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\bin\Debug\netcoreapp3.1\template.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\bin\Debug\netcoreapp3.1\template.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\bin\Debug\netcoreapp3.1\template.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\bin\Debug\netcoreapp3.1\template.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\template\obj\Debug\netcoreapp3.1\template.genruntimeconfig.cache

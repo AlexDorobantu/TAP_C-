@@ -1,0 +1,12 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\bin\Debug\netcoreapp3.1\strategy.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\bin\Debug\netcoreapp3.1\strategy.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\bin\Debug\netcoreapp3.1\strategy.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\bin\Debug\netcoreapp3.1\strategy.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\bin\Debug\netcoreapp3.1\strategy.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\bin\Debug\netcoreapp3.1\strategy.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\obj\Debug\netcoreapp3.1\strategy.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\obj\Debug\netcoreapp3.1\strategy.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\obj\Debug\netcoreapp3.1\strategy.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\obj\Debug\netcoreapp3.1\strategy.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\obj\Debug\netcoreapp3.1\strategy.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\strategy\obj\Debug\netcoreapp3.1\strategy.genruntimeconfig.cache

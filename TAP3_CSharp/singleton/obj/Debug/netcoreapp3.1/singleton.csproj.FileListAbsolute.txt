@@ -1,0 +1,12 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\bin\Debug\netcoreapp3.1\singleton.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\bin\Debug\netcoreapp3.1\singleton.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\bin\Debug\netcoreapp3.1\singleton.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\bin\Debug\netcoreapp3.1\singleton.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\bin\Debug\netcoreapp3.1\singleton.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\bin\Debug\netcoreapp3.1\singleton.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\obj\Debug\netcoreapp3.1\singleton.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\obj\Debug\netcoreapp3.1\singleton.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\obj\Debug\netcoreapp3.1\singleton.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\obj\Debug\netcoreapp3.1\singleton.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\obj\Debug\netcoreapp3.1\singleton.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\singleton\obj\Debug\netcoreapp3.1\singleton.genruntimeconfig.cache

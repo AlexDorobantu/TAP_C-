@@ -1,0 +1,4 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem2\obj\Debug\netcoreapp3.1\filesystem2.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem2\obj\Debug\netcoreapp3.1\filesystem2.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem2\obj\Debug\netcoreapp3.1\filesystem2.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem2\obj\Debug\netcoreapp3.1\filesystem2.csproj.CoreCompileInputs.cache

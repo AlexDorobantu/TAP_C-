@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\bin\Debug\netcoreapp3.1\cars.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\bin\Debug\netcoreapp3.1\cars.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\bin\Debug\netcoreapp3.1\cars.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\bin\Debug\netcoreapp3.1\cars.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\bin\Debug\netcoreapp3.1\cars.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\bin\Debug\netcoreapp3.1\cars.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\cars\obj\Debug\netcoreapp3.1\cars.genruntimeconfig.cache

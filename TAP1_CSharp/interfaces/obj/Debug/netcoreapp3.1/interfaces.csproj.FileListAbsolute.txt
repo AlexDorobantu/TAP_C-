@@ -1,0 +1,12 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\interfaces.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\interfaces.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\interfaces.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\interfaces.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.genruntimeconfig.cache

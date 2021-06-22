@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\bin\Debug\netcoreapp3.1\decorator.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\bin\Debug\netcoreapp3.1\decorator.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\bin\Debug\netcoreapp3.1\decorator.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\bin\Debug\netcoreapp3.1\decorator.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\bin\Debug\netcoreapp3.1\decorator.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\bin\Debug\netcoreapp3.1\decorator.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\decorator\obj\Debug\netcoreapp3.1\decorator.genruntimeconfig.cache

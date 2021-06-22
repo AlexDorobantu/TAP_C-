@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TAP3_CSharp/1.0.0": {
+        "runtime": {
+          "TAP3_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAP3_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

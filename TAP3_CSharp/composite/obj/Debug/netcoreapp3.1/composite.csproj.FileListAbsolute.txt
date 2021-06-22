@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\bin\Debug\netcoreapp3.1\composite.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\bin\Debug\netcoreapp3.1\composite.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\bin\Debug\netcoreapp3.1\composite.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\bin\Debug\netcoreapp3.1\composite.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\bin\Debug\netcoreapp3.1\composite.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\bin\Debug\netcoreapp3.1\composite.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\composite\obj\Debug\netcoreapp3.1\composite.genruntimeconfig.cache

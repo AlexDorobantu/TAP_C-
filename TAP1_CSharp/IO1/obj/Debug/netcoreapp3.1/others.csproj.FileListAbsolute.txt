@@ -1,0 +1,12 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\bin\Debug\netcoreapp3.1\others.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\bin\Debug\netcoreapp3.1\others.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\bin\Debug\netcoreapp3.1\others.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\bin\Debug\netcoreapp3.1\others.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\bin\Debug\netcoreapp3.1\others.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\bin\Debug\netcoreapp3.1\others.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\obj\Debug\netcoreapp3.1\others.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\obj\Debug\netcoreapp3.1\others.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\obj\Debug\netcoreapp3.1\others.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\obj\Debug\netcoreapp3.1\others.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\obj\Debug\netcoreapp3.1\others.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\IO1\obj\Debug\netcoreapp3.1\others.genruntimeconfig.cache

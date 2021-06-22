@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\bin\Debug\netcoreapp3.1\functional.exe
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\bin\Debug\netcoreapp3.1\functional.deps.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\bin\Debug\netcoreapp3.1\functional.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\bin\Debug\netcoreapp3.1\functional.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\bin\Debug\netcoreapp3.1\functional.dll
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\bin\Debug\netcoreapp3.1\functional.pdb
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.dll
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.pdb
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\functional\obj\Debug\netcoreapp3.1\functional.genruntimeconfig.cache

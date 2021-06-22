@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\bin\Debug\netcoreapp3.1\observer.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\bin\Debug\netcoreapp3.1\observer.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\bin\Debug\netcoreapp3.1\observer.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\bin\Debug\netcoreapp3.1\observer.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\observer\obj\Debug\netcoreapp3.1\observer.genruntimeconfig.cache

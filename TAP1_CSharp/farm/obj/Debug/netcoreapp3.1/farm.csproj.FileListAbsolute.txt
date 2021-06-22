@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\bin\Debug\netcoreapp3.1\farm.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\bin\Debug\netcoreapp3.1\farm.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\bin\Debug\netcoreapp3.1\farm.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\bin\Debug\netcoreapp3.1\farm.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\bin\Debug\netcoreapp3.1\farm.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\bin\Debug\netcoreapp3.1\farm.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\farm\obj\Debug\netcoreapp3.1\farm.genruntimeconfig.cache
