@@ -29,15 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "visitor2", "visitor2\visito
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutions", "solutions", "{02290422-257C-4E71-AED2-F902DC6C014B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_filesystem", "filesystem\solution_filesystem.csproj", "{30450BF3-BF7C-4000-881B-6797D79596B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_filesystem", "solution_filesystem\solution_filesystem.csproj", "{30450BF3-BF7C-4000-881B-6797D79596B6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_filesystem2", "filesystem2\solution_filesystem2.csproj", "{385350DF-897C-4F6C-82AB-ACD5FF8B4077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_filesystem2", "solution_filesystem2\solution_filesystem2.csproj", "{385350DF-897C-4F6C-82AB-ACD5FF8B4077}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "observer", "observer\observer.csproj", "{7627DDC8-8EAD-43B2-985D-5745C79DC0CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_observer", "observer1\solution_observer.csproj", "{A6292091-D520-4D93-A425-E1197FEDE814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_observer", "solution_observer\solution_observer.csproj", "{A6292091-D520-4D93-A425-E1197FEDE814}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_visitor", "visitor1\solution_visitor.csproj", "{3B8C0C5E-46CE-4273-B258-F8EE6DFCC93A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_visitor", "solution_visitor\solution_visitor.csproj", "{3B8C0C5E-46CE-4273-B258-F8EE6DFCC93A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
