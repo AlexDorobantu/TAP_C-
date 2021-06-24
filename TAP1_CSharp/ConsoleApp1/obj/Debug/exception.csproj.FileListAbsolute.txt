@@ -1,0 +1,7 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\obj\Debug\exception.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\obj\Debug\exception.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

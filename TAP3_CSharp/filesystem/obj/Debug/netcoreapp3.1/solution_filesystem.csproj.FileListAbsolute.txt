@@ -1,0 +1,13 @@
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\bin\Debug\netcoreapp3.1\solution_filesystem.exe
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\bin\Debug\netcoreapp3.1\solution_filesystem.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\bin\Debug\netcoreapp3.1\solution_filesystem.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\bin\Debug\netcoreapp3.1\solution_filesystem.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\bin\Debug\netcoreapp3.1\solution_filesystem.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\bin\Debug\netcoreapp3.1\solution_filesystem.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.dll
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP3_CSharp\filesystem\obj\Debug\netcoreapp3.1\solution_filesystem.genruntimeconfig.cache

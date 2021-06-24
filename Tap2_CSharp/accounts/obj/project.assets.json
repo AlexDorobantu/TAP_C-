@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\accounts\\accounts.csproj",
-      "projectName": "accounts",
-      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\accounts\\accounts.csproj",
+      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\accounts\\solution_accounts.csproj",
+      "projectName": "solution_accounts",
+      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\accounts\\solution_accounts.csproj",
       "packagesPath": "C:\\Users\\ADorobantu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\accounts\\obj\\",
       "projectStyle": "PackageReference",

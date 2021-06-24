@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\filesystem2\\filesystem2.csproj",
-      "projectName": "filesystem2",
-      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\filesystem2\\filesystem2.csproj",
+      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\filesystem2\\solution_filesystem2.csproj",
+      "projectName": "solution_filesystem2",
+      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\filesystem2\\solution_filesystem2.csproj",
       "packagesPath": "C:\\Users\\ADorobantu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\filesystem2\\obj\\",
       "projectStyle": "PackageReference",

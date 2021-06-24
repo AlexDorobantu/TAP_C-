@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\observer1\\observer1.csproj",
-      "projectName": "observer1",
-      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\observer1\\observer1.csproj",
+      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\observer1\\solution_observer.csproj",
+      "projectName": "solution_observer",
+      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\observer1\\solution_observer.csproj",
       "packagesPath": "C:\\Users\\ADorobantu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\TAP3_CSharp\\observer1\\obj\\",
       "projectStyle": "PackageReference",

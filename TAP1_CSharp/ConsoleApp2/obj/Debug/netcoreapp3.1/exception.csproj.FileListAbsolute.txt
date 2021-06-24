@@ -1,0 +1,12 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\bin\Debug\netcoreapp3.1\exception.exe
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\bin\Debug\netcoreapp3.1\exception.deps.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\bin\Debug\netcoreapp3.1\exception.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\bin\Debug\netcoreapp3.1\exception.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\bin\Debug\netcoreapp3.1\exception.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\bin\Debug\netcoreapp3.1\exception.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\obj\Debug\netcoreapp3.1\exception.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\obj\Debug\netcoreapp3.1\exception.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\obj\Debug\netcoreapp3.1\exception.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\obj\Debug\netcoreapp3.1\exception.dll
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\obj\Debug\netcoreapp3.1\exception.pdb
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\ConsoleApp2\obj\Debug\netcoreapp3.1\exception.genruntimeconfig.cache

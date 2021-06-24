@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\bstree\\bstree.csproj",
-      "projectName": "bstree",
-      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\bstree\\bstree.csproj",
+      "projectUniqueName": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\bstree\\solution_bstree.csproj",
+      "projectName": "solution_bstree",
+      "projectPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\bstree\\solution_bstree.csproj",
       "packagesPath": "C:\\Users\\ADorobantu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADorobantu\\Projects\\TAP\\Tap2_CSharp\\bstree\\obj\\",
       "projectStyle": "PackageReference",

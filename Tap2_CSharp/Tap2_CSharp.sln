@@ -3,30 +3,30 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "defaultmethods", "Tap2_CSharp\defaultmethods.csproj", "{9E3E24CB-61C0-4E98-B70B-9EE21292E06E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "defaultmethods", "Tap2_CSharp\defaultmethods.csproj", "{9E3E24CB-61C0-4E98-B70B-9EE21292E06E}"
 	ProjectSection(ProjectDependencies) = postProject
 		{5DC6A640-2338-49D9-8E05-01B2BF1F7405} = {5DC6A640-2338-49D9-8E05-01B2BF1F7405}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functional", "functional\functional.csproj", "{5DC6A640-2338-49D9-8E05-01B2BF1F7405}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "functional", "functional\functional.csproj", "{5DC6A640-2338-49D9-8E05-01B2BF1F7405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics", "generics\generics.csproj", "{71D97529-A214-46BB-BFD3-F8F6E594EC93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generics", "generics\generics.csproj", "{71D97529-A214-46BB-BFD3-F8F6E594EC93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "map", "map\map.csproj", "{666B2835-7AF3-46F3-8AC9-A2183AFAAC31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "map", "map\map.csproj", "{666B2835-7AF3-46F3-8AC9-A2183AFAAC31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "map2", "map2\map2.csproj", "{454931AA-4FBE-4301-977C-301B92367014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "map2", "map2\map2.csproj", "{454931AA-4FBE-4301-977C-301B92367014}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "other", "other\other.csproj", "{9D493EF5-1930-4493-918A-4B170A4EFD85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "other", "other\other.csproj", "{9D493EF5-1930-4493-918A-4B170A4EFD85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stacks", "stacks\stacks.csproj", "{98BC8D49-2063-4783-A36B-F8BE723FC9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stacks", "stacks\stacks.csproj", "{98BC8D49-2063-4783-A36B-F8BE723FC9F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{1D5D69F4-536F-4226-B4CF-F04181AC17AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accounts", "accounts\accounts.csproj", "{3E7F5DAC-FFFE-4329-AA51-64C45A54B717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_accounts", "accounts\solution_accounts.csproj", "{3E7F5DAC-FFFE-4329-AA51-64C45A54B717}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bstree", "bstree\bstree.csproj", "{2F022EE9-A4D0-4C64-825A-ECCA4DF97339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_bstree", "bstree\solution_bstree.csproj", "{2F022EE9-A4D0-4C64-825A-ECCA4DF97339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bstree2", "bstree2\bstree2.csproj", "{3B037699-6583-4B68-9734-0C1DB29F18B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_bstree2", "bstree2\solution_bstree2.csproj", "{3B037699-6583-4B68-9734-0C1DB29F18B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
