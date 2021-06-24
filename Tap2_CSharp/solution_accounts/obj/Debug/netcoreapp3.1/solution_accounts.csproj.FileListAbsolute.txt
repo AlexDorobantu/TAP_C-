@@ -1,0 +1,12 @@
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\bin\Debug\netcoreapp3.1\solution_accounts.exe
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\bin\Debug\netcoreapp3.1\solution_accounts.deps.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\bin\Debug\netcoreapp3.1\solution_accounts.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\bin\Debug\netcoreapp3.1\solution_accounts.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\bin\Debug\netcoreapp3.1\solution_accounts.dll
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\bin\Debug\netcoreapp3.1\solution_accounts.pdb
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\obj\Debug\netcoreapp3.1\solution_accounts.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\obj\Debug\netcoreapp3.1\solution_accounts.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\obj\Debug\netcoreapp3.1\solution_accounts.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\obj\Debug\netcoreapp3.1\solution_accounts.dll
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\obj\Debug\netcoreapp3.1\solution_accounts.pdb
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_accounts\obj\Debug\netcoreapp3.1\solution_accounts.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_bstree2\obj\Debug\netcoreapp3.1\solution_bstree2.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_bstree2\obj\Debug\netcoreapp3.1\solution_bstree2.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\solution_bstree2\obj\Debug\netcoreapp3.1\solution_bstree2.csproj.CoreCompileInputs.cache

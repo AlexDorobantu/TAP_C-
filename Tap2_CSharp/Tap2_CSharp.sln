@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "defaultmethods", "Tap2_CSharp\defaultmethods.csproj", "{9E3E24CB-61C0-4E98-B70B-9EE21292E06E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "defaultmethods", "defaultmethods\defaultmethods.csproj", "{9E3E24CB-61C0-4E98-B70B-9EE21292E06E}"
 	ProjectSection(ProjectDependencies) = postProject
 		{5DC6A640-2338-49D9-8E05-01B2BF1F7405} = {5DC6A640-2338-49D9-8E05-01B2BF1F7405}
 	EndProjectSection
@@ -22,11 +22,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stacks", "stacks\stacks.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{1D5D69F4-536F-4226-B4CF-F04181AC17AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_accounts", "accounts\solution_accounts.csproj", "{3E7F5DAC-FFFE-4329-AA51-64C45A54B717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_accounts", "solution_accounts\solution_accounts.csproj", "{3E7F5DAC-FFFE-4329-AA51-64C45A54B717}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_bstree", "bstree\solution_bstree.csproj", "{2F022EE9-A4D0-4C64-825A-ECCA4DF97339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_bstree", "solution_bstree\solution_bstree.csproj", "{2F022EE9-A4D0-4C64-825A-ECCA4DF97339}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_bstree2", "bstree2\solution_bstree2.csproj", "{3B037699-6583-4B68-9734-0C1DB29F18B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "solution_bstree2", "solution_bstree2\solution_bstree2.csproj", "{3B037699-6583-4B68-9734-0C1DB29F18B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
