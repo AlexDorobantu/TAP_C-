@@ -6,28 +6,24 @@ namespace functional
 {
     public class Functional
     {
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
-            Consumer<Integer> c = Integer;
-            x;
-            System.out.println(x);
+            Action<int> c = (x) => Console.WriteLine(x);
 
-            BiConsumer<Integer, String> b = Integer;
-            x;
-            String y;
-            System.out.println((x + (" : " + y)));
-            Predicate<String> p = String;
-            s;
-            return s.equals("TAP");
 
-            Function<Integer, Integer> f = Integer;
-            elem;
-            (elem + 1);
-            System.out.println(p.test("TAP"));
-            System.out.println(p.test("JO"));
-            c.accept(4566);
-            b.accept(666, "pedro");
-            System.out.println(f.apply(45));
+            Action<int, string> b = (x, y) => Console.WriteLine(x + " : " + y);
+
+
+            Predicate<string> p = (s) => s.Equals("TAP");
+
+            Action<int> f = (elem) => elem = (elem + 1);
+
+
+            Console.WriteLine(p.Invoke("TAP"));
+            Console.WriteLine(p.Invoke("JO"));
+            c.Invoke(4566);
+            b.Invoke(666, "pedro");
+            Console.WriteLine(f.DynamicInvoke(45));
         }
     }
 }

@@ -10,3 +10,16 @@ C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\Tap2_CSharp\obj\Debug\netcoreapp3.1
 C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\Tap2_CSharp\obj\Debug\netcoreapp3.1\defaultmethods.dll
 C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\Tap2_CSharp\obj\Debug\netcoreapp3.1\defaultmethods.pdb
 C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\Tap2_CSharp\obj\Debug\netcoreapp3.1\defaultmethods.genruntimeconfig.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\bin\Debug\netcoreapp3.1\defaultmethods.exe
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\bin\Debug\netcoreapp3.1\defaultmethods.deps.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\bin\Debug\netcoreapp3.1\defaultmethods.runtimeconfig.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\bin\Debug\netcoreapp3.1\defaultmethods.runtimeconfig.dev.json
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\bin\Debug\netcoreapp3.1\defaultmethods.dll
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\bin\Debug\netcoreapp3.1\defaultmethods.pdb
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.csprojAssemblyReference.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.csproj.CoreCompileInputs.cache
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.dll
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.pdb
+C:\Users\ADorobantu\Projects\TAP\Tap2_CSharp\defaultmethods\obj\Debug\netcoreapp3.1\defaultmethods.genruntimeconfig.cache

@@ -6,12 +6,12 @@ namespace map2
 {
     public class Map
     {
-        public static LinkedList<T> map<T>(List<T> list, Imap<T> function)
+        public static List<T> map<T>(List<T> list, Imap<T> function)
         {
-            LinkedList<T> result = new LinkedList<T>();
+            List<T> result = new List<T>();
             foreach (T elem in list)
             {
-                result.AddLast(function.Apply(elem));
+                result.Add(function.Apply(elem));
             }
 
             return result;

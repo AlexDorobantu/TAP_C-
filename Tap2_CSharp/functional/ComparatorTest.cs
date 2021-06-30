@@ -22,7 +22,24 @@ namespace functional
             //  Use Lambda instead
             //  Print Asc
             Console.WriteLine("=== Sorted Asc SurName ===");
-            personList.Sort(personList, Person);
+
+
+
+            personList.Sort(delegate (Person x, Person y)
+            {
+                if (x.GetSurName == null && y.GetSurName == null) return 0;
+                else if (x.GetSurName == null) return -1;
+                else if (y.GetSurName == null) return 1;
+                else return x.GetSurName.CompareTo(y.GetSurName);
+            });
+
+            foreach (Person p in personList)
+            {
+                p.PrintName();
+            }
+
+
+                       
             p1.getSurName().compareTo(p2.getSurName());
             foreach (Person p in personList)
             {

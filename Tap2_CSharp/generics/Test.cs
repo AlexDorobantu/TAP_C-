@@ -10,10 +10,10 @@ namespace generics
     public class Test
     {
 
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
-            Collection<String> c;
-            String[] lista = new String[] {
+            Collection<string> c;
+            string[] lista = new string[] {
                 "uno",
                 "dos",
                 "tres",
@@ -57,10 +57,10 @@ namespace generics
 
         public static void test3(Collection<Object> c)
         {
-            Iterator it = c.iterator();
-            while (it.hasNext())
+
+            foreach (Object elem in c)
             {
-                Console.WriteLine(it.next());
+                Console.WriteLine(elem);
             }
 
             Console.WriteLine("-------------------------");

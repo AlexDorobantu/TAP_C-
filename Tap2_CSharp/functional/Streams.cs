@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace functional
@@ -9,33 +10,33 @@ namespace functional
 
         public static void Main(String[] args)
         {
-            LinkedList<Animal> list = new LinkedList<Animal>();
+            List<Animal> list = new List<Animal>();
             Animal a1 = new Animal("loro", 24);
             Animal a2 = new Animal("oso", 75);
             Animal a3 = new Animal("gato", 16);
             Animal a4 = new Animal("perro", 6);
             Animal a5 = new Animal("elefante", 67);
             Animal a6 = new Animal("mamut", 81);
-            list.AddLast(a1);
-            list.AddLast(a2);
-            list.AddLast(a3);
-            list.AddLast(a4);
-            list.AddLast(a5);
-            list.AddLast(a6);
+            list.Add(a1);
+            list.Add(a2);
+            list.Add(a3);
+            list.Add(a4);
+            list.Add(a5);
+            list.Add(a6);
 
-            Stream<Animal> animalsOver3 = list.stream().filter(p, -, Greater, (p.getAge() > 30));
-            animalsOver3.forEach(elem, -, Greater, System.out.println(elem.getAge()));
 
-           
-            List<Animal> result = list.stream().filter(p, -, Greater, (p.getAge() > 30)).collect(Collectors.toList());
-            result.forEach(System.out, :, :, println);
-            
-            
-            long number = list.stream().filter(p, -, Greater, (p.getAge() > 30)).collect(Collectors.counting());
-            System.out.println(("number " + number));
-            
-            
-            list.stream().filter(p, -, Greater, (p.getAge() > 30)).count();
+            List<Animal> animalsOver3 = list.FindAll(x => x.GetAge() > 30);
+            foreach (Animal elem in animalsOver3)
+            {
+                Console.WriteLine(elem.GetAge());
+            }
+
+
+            long number = list.FindAll(x => x.GetAge() > 30).Count();
+            Console.WriteLine(("number " + number));
+
+            list.Where(x => x.GetAge() > 30).Count();
 
         }
+    }
 }

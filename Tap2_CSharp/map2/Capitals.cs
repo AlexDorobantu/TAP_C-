@@ -6,7 +6,7 @@ namespace map2
 {
     public class Capitals : Imap<string>
     {
-        public String Apply(String elem)
+        public string Apply(string elem)
         {
             return elem.ToUpper();
         }

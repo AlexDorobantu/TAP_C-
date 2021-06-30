@@ -7,10 +7,20 @@ namespace map2
     public class MapSample
     {
 
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
-            LinkedList<int> list = Arrays.asList(1, 3, 5, 7, 9);
-            List<String> list2 = Arrays.asList("pedro", "lenguajes", "programacion", "Java", "haskell");
+            List<int> list = new List<int>();
+            list.Add(1);
+            list.Add(3);
+            list.Add(5);
+            list.Add(7);
+            list.Add(9);
+
+            List<string> list2 = new List<string>();
+            list2.Add("pedro");
+            list2.Add("lenguajes");
+            list2.Add("programacion");
+            list2.Add("haskell");
            
             List<int> result = Map.map(list, new Increment());
             

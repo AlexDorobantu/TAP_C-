@@ -4,7 +4,7 @@ using System.Text;
 
 namespace stacks
 {
-    public interface Stack
+    public interface IFormattable
     {
         //Introduce an element at the top
         void Push(int elem);

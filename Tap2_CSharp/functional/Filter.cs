@@ -9,10 +9,10 @@ namespace functional
 
         public static List<T> filter<T>(List<T> list, Predicate<T> f)
         {
-            LinkedList<T> result = new LinkedList<T>();
+            List<T> result = new List<T>();
             foreach (T elem in list)
             {
-                if (f.test(elem))
+                if (f.Invoke(elem))
                 {
                     result.Add(elem);
                 }
@@ -21,20 +21,26 @@ namespace functional
             return result;
         }
 
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
-            LinkedList<String> elems = new LinkedList();
-            elems.AddLast("tap");
-            elems.AddLast("lp");
-            elems.AddLast("ptap");
-            elems.AddLast("lp");
-            List<String> result;
-            p.startsWith("p");
+            List<string> elems = new List<string>();
+            elems.Add("tap");
+            elems.Add("lp");
+            elems.Add("ptap");
+            elems.Add("lp");
+            
+            List<string> result = elems.FindAll(e => e.StartsWith("p"));
+
             foreach (String elem in result)
             {
-                System.out.println(elem);
+                Console.WriteLine(elem);
             }
 
+            result = Filter.filter(elems, (String p) => p.StartsWith("p"));
+            foreach (String elem in result)
+            {
+                Console.WriteLine(elem);
+            }
         }
 
     }

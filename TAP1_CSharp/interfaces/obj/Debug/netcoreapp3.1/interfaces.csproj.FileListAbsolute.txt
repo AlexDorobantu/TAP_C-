@@ -10,3 +10,4 @@ C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\bin\Debug\netcoreapp3.1\
 C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.dll
 C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.pdb
 C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.genruntimeconfig.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\interfaces\obj\Debug\netcoreapp3.1\interfaces.csprojAssemblyReference.cache

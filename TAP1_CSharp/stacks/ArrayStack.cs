@@ -4,7 +4,7 @@ using System.Text;
 
 namespace stacks
 {
-    public class ArrayStack : Stack
+    public class ArrayStack : IFormattable
     {
 
         private int[] pile;

@@ -1,0 +1,3 @@
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\stacks\obj\Debug\netcoreapp3.1\stacks.AssemblyInfoInputs.cache
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\stacks\obj\Debug\netcoreapp3.1\stacks.AssemblyInfo.cs
+C:\Users\ADorobantu\Projects\TAP\TAP1_CSharp\stacks\obj\Debug\netcoreapp3.1\stacks.csproj.CoreCompileInputs.cache

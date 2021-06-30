@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Numerics;
 using System.Text;
+using System.IO;
+using System.Collections;
 
 namespace stacks
 {

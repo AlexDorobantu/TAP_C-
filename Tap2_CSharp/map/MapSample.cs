@@ -6,7 +6,7 @@ namespace map
 {
     public class MapSample
     {
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
             int[] list = new int[] {1,2,3,4,5};
 
